@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 hello humans 
-i am Quang Lai from first branch, the most handsome person in the world.
+i am Quang Lai from first branch and at branch3 , the most handsome person in the world.
